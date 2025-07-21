@@ -2,7 +2,7 @@
 🔹 Level 1: bigint (with vectors)
 🔹 Level 2: life
 
-I don't think you'll need malloc or to worry about memory leaks.
+I don't think you'll need to protect malloc or to worry about memory leaks.
 Maybe there will be a few small errors, but I'm sure you're better than all of them! 😎💪
 
 GOOD LUCK on your exam! 🍀🚀 You've got this! 🙌
