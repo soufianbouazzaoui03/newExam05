@@ -22,8 +22,7 @@ int count_neighbors(char **board, int width, int height, int x, int y) {
             }
             // Cells outside bounds are considered dead (no increment)
         }
-    }
-    
+    }    
     return count;
 }
 
